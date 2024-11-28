@@ -13,7 +13,6 @@
       .font-fa {
         font-family: "Vazirmatn", sans-serif;
       }
-
       .my-10 {
         margin: 10px 0;
       }
@@ -28,9 +27,7 @@
       style="width: fit-content; padding: 10px; background-color: #a8cd89"
       >Demo</a
     >
-
     <hr class="my-10" />
-
     <p style="text-align: left; font-size: 24px" class="font-fa">
       دکمه ی تغیر تم با استفاده از بوت استرپ
     </p>
