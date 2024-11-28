@@ -19,7 +19,7 @@
     </style>
   </head>
   <body>
-    # change theme button using bootstrap css change theme button with html css
+    change theme button using bootstrap css change theme button with html css
     js and bootstrap css. demo link:
     <a
       href="https://aliakbar-nazemi.github.io/change-theme-bootstrap/"
