@@ -11,6 +11,7 @@
     />
   </head>
   <body>
+    <h2 style="text-align: left; font-size: 32px;font-family: "Vazirmatn", sans-serif;font-weight:700;">Change theme using bootstrap css</h2>
     change theme button using bootstrap css change theme button with html css
     js and bootstrap css.
     <br />
