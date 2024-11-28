@@ -9,14 +9,6 @@
       href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap"
       rel="stylesheet"
     />
-    <style>
-      .font-fa {
-        font-family: "Vazirmatn", sans-serif;
-      }
-      .my-10 {
-        margin: 10px 0;
-      }
-    </style>
   </head>
   <body>
     change theme button using bootstrap css change theme button with html css
@@ -27,11 +19,11 @@
       style="width: fit-content; padding: 10px; background-color: #a8cd89"
       >Demo</a
     >
-    <hr class="my-10" />
-    <p style="text-align: left; font-size: 24px" class="font-fa">
+    <hr style="margin: 10px 0;" />
+    <p style="text-align: left; font-size: 24px;font-family: "Vazirmatn", sans-serif;" class="font-fa">
       دکمه ی تغیر تم با استفاده از بوت استرپ
     </p>
-    <p style="text-align: left; font-size: 16px" class="font-fa">
+    <p style="text-align: left; font-size: 16px;font-family: "Vazirmatn", sans-serif;" class="font-fa">
       طراحی دکمه ی تغیر تم با استفاده از قابلیت های مربوطه ی بوت استرپ
     </p>
   </body>
